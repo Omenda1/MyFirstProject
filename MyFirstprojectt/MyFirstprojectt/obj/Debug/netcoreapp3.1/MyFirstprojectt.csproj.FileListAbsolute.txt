@@ -1,0 +1,13 @@
+C:\Users\SHARON\Desktop\MyFirstprojectt\MyFirstprojectt\bin\Debug\netcoreapp3.1\MyFirstprojectt.exe
+C:\Users\SHARON\Desktop\MyFirstprojectt\MyFirstprojectt\bin\Debug\netcoreapp3.1\MyFirstprojectt.deps.json
+C:\Users\SHARON\Desktop\MyFirstprojectt\MyFirstprojectt\bin\Debug\netcoreapp3.1\MyFirstprojectt.runtimeconfig.json
+C:\Users\SHARON\Desktop\MyFirstprojectt\MyFirstprojectt\bin\Debug\netcoreapp3.1\MyFirstprojectt.runtimeconfig.dev.json
+C:\Users\SHARON\Desktop\MyFirstprojectt\MyFirstprojectt\bin\Debug\netcoreapp3.1\MyFirstprojectt.dll
+C:\Users\SHARON\Desktop\MyFirstprojectt\MyFirstprojectt\bin\Debug\netcoreapp3.1\MyFirstprojectt.pdb
+C:\Users\SHARON\Desktop\MyFirstprojectt\MyFirstprojectt\obj\Debug\netcoreapp3.1\MyFirstprojectt.csprojAssemblyReference.cache
+C:\Users\SHARON\Desktop\MyFirstprojectt\MyFirstprojectt\obj\Debug\netcoreapp3.1\MyFirstprojectt.AssemblyInfoInputs.cache
+C:\Users\SHARON\Desktop\MyFirstprojectt\MyFirstprojectt\obj\Debug\netcoreapp3.1\MyFirstprojectt.AssemblyInfo.cs
+C:\Users\SHARON\Desktop\MyFirstprojectt\MyFirstprojectt\obj\Debug\netcoreapp3.1\MyFirstprojectt.csproj.CoreCompileInputs.cache
+C:\Users\SHARON\Desktop\MyFirstprojectt\MyFirstprojectt\obj\Debug\netcoreapp3.1\MyFirstprojectt.dll
+C:\Users\SHARON\Desktop\MyFirstprojectt\MyFirstprojectt\obj\Debug\netcoreapp3.1\MyFirstprojectt.pdb
+C:\Users\SHARON\Desktop\MyFirstprojectt\MyFirstprojectt\obj\Debug\netcoreapp3.1\MyFirstprojectt.genruntimeconfig.cache
